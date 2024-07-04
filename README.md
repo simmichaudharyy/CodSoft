@@ -1,2 +1,5 @@
-# CodSoft task no. 1
-this is my first internship repo
+hello!
+welcome to my portfolio page i'm passionate about technology nd design . 
+
+
+
