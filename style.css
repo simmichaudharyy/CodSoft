@@ -1,0 +1,116 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    height: 45px;
+    justify-content: space-between;
+    background-color: rgb(196, 199, 199);
+    height: auto;
+}
+body{
+    background-color: rgb(199, 192, 192);
+    border: 2px solid rgb(22, 21, 21);
+    width: 190vh;
+    height: 90vh;
+    margin: 50px;
+    
+}
+nav ul{
+    display: flex;
+    justify-content: center;  
+    margin: auto; 
+
+}
+.mains{
+    color: rgb(24, 23, 23);
+    font-style: bold;
+    font-size: larger;
+}
+nav li{
+    list-style: none;
+    margin: 0 30px;
+    font-size: 1.5em; 
+    color: antiquewhite;
+
+} 
+a{
+    color: black; 
+    text-decoration: none;
+
+}
+.navbar1{
+    font-size: 4em;
+    font-family: "Gwendolyn", cursive;
+font-weight: bold;
+color: rgb(109, 5, 5);
+margin-left: 2%;
+margin-bottom: 1%;
+    
+}
+.aboutsection{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+h2 span{
+    color: rgb(105, 40, 40);
+    font-style: italic;
+}
+p{
+    font-weight: bolder;
+}
+p span{
+    color: rgb(26, 26, 28);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 23px;
+}
+.right{
+    height: 9cm;
+    margin-left: 15%;
+    border-radius: 5%;
+}
+.left{
+    line-height: 35px;
+    align-items: center;
+}
+.skills{
+    margin-top: 0px;
+    padding: 50px;
+    
+
+} 
+.project{
+
+    margin: 45px;
+    text-align: center;
+}
+.copyright{
+    text-align: center;
+    color: rgb(14, 14, 47);
+
+    font-style: italic;
+    font-size: .9cm;
+    padding-top: 0px;
+}
+.button  {
+    font-size: 22%;
+    margin: 8px;
+    align-items: center;
+    color: rgb(12, 12, 34);
+}
+button{
+    background-color: rgb(133, 133, 174);
+    padding: 14px 19px;
+    margin: 40px;
+    text-align: center; 
+    border-radius: 6px; 
+    
+}
+
+
